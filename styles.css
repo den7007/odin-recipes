@@ -1,0 +1,17 @@
+p {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    color: black;
+}
+
+.cheese {
+    background-color: yellow;
+}
+
+.monte {
+    background-color: plum;
+}
+
+.buffalo {
+    background-color: red;
+}
